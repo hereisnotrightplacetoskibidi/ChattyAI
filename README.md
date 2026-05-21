@@ -9,6 +9,8 @@ Welcome to ChattyAI! Free & limit-free AI that cab code + chat with you.
 
 ## Requirements:
 - Ollama AI App
+- 6GB (atleast for the app + model)
+- 15GB (for the full source code + model + launcher)
 - Download AI using: ollama pull llama3
 - All of these requirements are in app so you can try there.
 - If python error, download python and use this:
