@@ -1,0 +1,2 @@
+# ChattyAI
+AI Using ollama!
