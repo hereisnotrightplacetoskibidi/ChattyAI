@@ -1,11 +1,18 @@
 # ChattyAI
 Welcome to ChattyAI! Free & limit-free AI that cab code + chat with you.
-## Features
+## Features:
 - Official source code
 - Free and unlimited chatting
 - Free and unlimited codding
 - Memory + Chat history
 - Fast 24/7 responses
+
+## Installation:
+- Install ollama ai: https://ollama.com/download/OllamaSetup.exe
+- Install model for app (open terminal/cmd/powershell)
+- Enter into terminal: ollama pull llama3
+- After installation close terminal and open app freely.
+- Have fun!
 
 ## Requirements:
 - Ollama AI App
@@ -22,7 +29,7 @@ duckduckgo-search
 pyaudio
 markdown
 
-## Copyright
+## Copyright:
 (c) made by Filip (hereisnotrightplacetoskibidi) in 2026
 
 ## Source Code:
