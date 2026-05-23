@@ -1,5 +1,5 @@
 # ChattyAI
-Welcome to ChattyAI! Free & limit-free AI that cab code + chat with you.
+Welcome to ChattyAI! Free & limit-free AI that can code + chat with you.
 ## Features:
 - Official source code
 - Free and unlimited chatting
@@ -36,4 +36,6 @@ Tell me in machrik33@gmail.com in gmail if you want a source code for this ai.
 
 ## Project Copy:
 Send me an email and buy a copy for this AI.
-##
+
+## Contributors / Helpers / Testers
+Currently none.
